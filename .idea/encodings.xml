@@ -3,10 +3,18 @@
   <component name="Encoding" addBOMForNewFiles="with NO BOM">
     <file url="file://$PROJECT_DIR$" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/foodie-dev-api" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/foodie-dev-api/src/main/java/com/imooc/aspect/ServiceLogAspect.java" charset="GBK" />
     <file url="file://$PROJECT_DIR$/foodie-dev-common" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/foodie-dev-common/src/main/java/com/imooc/enums/YesOrNo.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/foodie-dev-common/src/main/java/com/imooc/utils/CookieUtils.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/foodie-dev-common/src/main/java/com/imooc/utils/DesensitizationUtil.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/foodie-dev-common/src/main/java/com/imooc/utils/JsonUtils.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/foodie-dev-common/src/main/java/com/imooc/utils/MobileEmailUtils.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/foodie-dev-common/src/main/java/com/imooc/utils/PagedGridResult.java" charset="GBK" />
     <file url="file://$PROJECT_DIR$/foodie-dev-mapper" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/foodie-dev-pojo" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/foodie-dev-pojo/src/main/java/com/imooc/pojo/Category.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/foodie-dev-pojo/src/main/java/com/imooc/pojo/vo/SimpleItemVO.java" charset="GBK" />
     <file url="file://$PROJECT_DIR$/foodie-dev-service" charset="UTF-8" />
   </component>
 </project>

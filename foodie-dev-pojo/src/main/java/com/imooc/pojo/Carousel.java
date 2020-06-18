@@ -5,25 +5,26 @@ import java.util.Date;
 
 public class Carousel {
     /**
-     * ����
+     * id
+     * 主键
      */
     @Id
     private String id;
 
     /**
-     * ͼƬ ͼƬ��ַ
+     * 图片url
      */
     @Column(name = "image_url")
     private String imageUrl;
 
     /**
-     * ����ɫ
+     * 背景颜色
      */
     @Column(name = "background_color")
     private String backgroundColor;
 
     /**
-     * ��Ʒid ��Ʒid
+     * 商品id
      */
     @Column(name = "item_id")
     private String itemId;
