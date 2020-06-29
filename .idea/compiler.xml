@@ -11,8 +11,12 @@
         <module name="foodie-dev-mapper" />
         <module name="foodie-dev-pojo" />
         <module name="foodie-dev-service" />
+        <module name="foodiepayment" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="foodie-payment" target="1.5" />
+    </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
@@ -21,6 +25,7 @@
       <module name="foodie-dev-mapper" options="-parameters" />
       <module name="foodie-dev-pojo" options="-parameters" />
       <module name="foodie-dev-service" options="-parameters" />
+      <module name="foodiepayment" options="-parameters" />
     </option>
   </component>
 </project>

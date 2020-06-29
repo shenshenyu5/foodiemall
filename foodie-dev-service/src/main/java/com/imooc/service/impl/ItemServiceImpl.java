@@ -173,4 +173,19 @@ public class ItemServiceImpl  implements ItemService {
        ItemsImg result =   itemsImgMapper.selectOne(itemsImg);
         return result!=null ?result.getUrl() : "";
     }
+
+    @Transactional(propagation = Propagation.NESTED)
+    @Override
+    public void decreaseItemSpecStock(String specId, Integer buyCounts) {
+        /**
+         * 锁数据库，导致数据库性能低下
+         * 建议使用分布式锁 zookeeper redis
+         */
+      int result =  itemsMapperCustom.decreaseItemSpecStock(specId,buyCounts);
+
+        if (result!=1) {
+            throw new RuntimeException("订单创建失败，库存不足");
+        }
+
+    }
 }
