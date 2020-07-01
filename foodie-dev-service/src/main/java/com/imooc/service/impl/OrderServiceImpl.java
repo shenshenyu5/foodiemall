@@ -61,8 +61,8 @@ public class OrderServiceImpl implements OrderService {
 
                UserAddress resultAddress =  addressService.queryUserAddress(userId,addressId);
                newOrder.setReceiverAddress(resultAddress.getProvince()+resultAddress.getCity()+resultAddress.getDistrict()+resultAddress.getDetail());
-                newOrder.setReceiverMobile(resultAddress.getMobile());
-                newOrder.setReceiverName(resultAddress.getReceiver());
+               newOrder.setReceiverMobile(resultAddress.getMobile());
+               newOrder.setReceiverName(resultAddress.getReceiver());
 
                 //TODO 价格
                 //TODO 实际支付的价格

@@ -1,25 +1,34 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="Encoding" addBOMForNewFiles="with NO BOM">
+  <component name="Encoding">
     <file url="file://$PROJECT_DIR$" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/foodie-dev-api" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/foodie-dev-api/src/main/java/com/imooc/aspect/ServiceLogAspect.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/foodie-dev-api/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/foodie-dev-api/src/main/java/com/imooc/aspect/ServiceLogAspect.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/foodie-dev-api/src/main/java/com/imooc/controller/center/CenterUserController.java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/foodie-dev-common" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/foodie-dev-common/src/main/java/com/imooc/enums/YesOrNo.java" charset="GBK" />
-    <file url="file://$PROJECT_DIR$/foodie-dev-common/src/main/java/com/imooc/utils/CookieUtils.java" charset="GBK" />
-    <file url="file://$PROJECT_DIR$/foodie-dev-common/src/main/java/com/imooc/utils/DesensitizationUtil.java" charset="GBK" />
-    <file url="file://$PROJECT_DIR$/foodie-dev-common/src/main/java/com/imooc/utils/JsonUtils.java" charset="GBK" />
-    <file url="file://$PROJECT_DIR$/foodie-dev-common/src/main/java/com/imooc/utils/MobileEmailUtils.java" charset="GBK" />
-    <file url="file://$PROJECT_DIR$/foodie-dev-common/src/main/java/com/imooc/utils/PagedGridResult.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/foodie-dev-common/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/foodie-dev-common/src/main/java/com/imooc/enums/YesOrNo.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/foodie-dev-common/src/main/java/com/imooc/utils/CookieUtils.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/foodie-dev-common/src/main/java/com/imooc/utils/DesensitizationUtil.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/foodie-dev-common/src/main/java/com/imooc/utils/JsonUtils.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/foodie-dev-common/src/main/java/com/imooc/utils/MobileEmailUtils.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/foodie-dev-common/src/main/java/com/imooc/utils/PagedGridResult.java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/foodie-dev-mapper" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/foodie-dev-mapper/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/foodie-dev-pojo" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/foodie-dev-pojo/src/main/java/com/imooc/pojo/Category.java" charset="GBK" />
-    <file url="file://$PROJECT_DIR$/foodie-dev-pojo/src/main/java/com/imooc/pojo/vo/MerchantOrdersVO.java" charset="GBK" />
-    <file url="file://$PROJECT_DIR$/foodie-dev-pojo/src/main/java/com/imooc/pojo/vo/OrderVO.java" charset="GBK" />
-    <file url="file://$PROJECT_DIR$/foodie-dev-pojo/src/main/java/com/imooc/pojo/vo/SimpleItemVO.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/foodie-dev-pojo/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/foodie-dev-pojo/src/main/java/com/imooc/pojo/bo/center" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/foodie-dev-pojo/src/main/java/com/imooc/pojo/vo/MerchantOrdersVO.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/foodie-dev-pojo/src/main/java/com/imooc/pojo/vo/MyOrdersVO.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/foodie-dev-pojo/src/main/java/com/imooc/pojo/vo/MySubOrderItemVO.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/foodie-dev-pojo/src/main/java/com/imooc/pojo/vo/OrderVO.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/foodie-dev-pojo/src/main/java/com/imooc/pojo/vo/SimpleItemVO.java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/foodie-dev-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/foodie-dev-service/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/foodie-payment" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/foodie-payment/src/main/java/com" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/foodie-payment/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/foodie-payment/src/main/java/com" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/foodie-payment/src/main/resources/alipay.properties" charset="GBK" />
     <file url="file://$PROJECT_DIR$/foodie-payment/src/main/resources/application-dev.yml" charset="GBK" />
     <file url="file://$PROJECT_DIR$/foodie-payment/src/main/resources/application-prod.yml" charset="GBK" />
@@ -28,5 +37,7 @@
     <file url="file://$PROJECT_DIR$/foodie-payment/src/main/resources/mapper" charset="GBK" />
     <file url="file://$PROJECT_DIR$/foodie-payment/src/main/resources/templates" charset="GBK" />
     <file url="file://$PROJECT_DIR$/foodie-payment/src/main/resources/wxpay.properties" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resources" charset="UTF-8" />
   </component>
 </project>
