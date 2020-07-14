@@ -13,6 +13,7 @@ import tk.mybatis.spring.annotation.MapperScan;
 //开启定时任务
 @EnableScheduling
 public class Application {
+    //此项目的启动类
     public static void main(String[] args) {
         SpringApplication.run(Application.class,args);
     }

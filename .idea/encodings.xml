@@ -16,12 +16,16 @@
     <file url="file://$PROJECT_DIR$/foodie-dev-common/src/main/java/com/imooc/utils/PagedGridResult.java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/foodie-dev-mapper" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/foodie-dev-mapper/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/foodie-dev-mapper/src/main/resources/mapper/OrdersMapperCustom.xml" charset="GBK" />
     <file url="file://$PROJECT_DIR$/foodie-dev-pojo" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/foodie-dev-pojo/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/foodie-dev-pojo/src/main/java/com/imooc/pojo/Category.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/foodie-dev-pojo/src/main/java/com/imooc/pojo/OrderItems.java" charset="GBK" />
     <file url="file://$PROJECT_DIR$/foodie-dev-pojo/src/main/java/com/imooc/pojo/bo/center" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/foodie-dev-pojo/src/main/java/com/imooc/pojo/vo/MerchantOrdersVO.java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/foodie-dev-pojo/src/main/java/com/imooc/pojo/vo/MyOrdersVO.java" charset="GBK" />
     <file url="file://$PROJECT_DIR$/foodie-dev-pojo/src/main/java/com/imooc/pojo/vo/MySubOrderItemVO.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/foodie-dev-pojo/src/main/java/com/imooc/pojo/vo/OrderStatusCountsVO.java" charset="GBK" />
     <file url="file://$PROJECT_DIR$/foodie-dev-pojo/src/main/java/com/imooc/pojo/vo/OrderVO.java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/foodie-dev-pojo/src/main/java/com/imooc/pojo/vo/SimpleItemVO.java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/foodie-dev-service" charset="UTF-8" />
